@@ -16,5 +16,7 @@ Epic World <b><i>~ The Forbidden Forest ~</i></b>. Hosted On: <a href="https://w
  Written And Scripted By: <a href="mailto:danieljajliardo@gmail.com">Daniel Jajliardo</a>.
 </div>
 
+<script type="text/javascript" srs="main.js"/>
+
 </body>	
 </html>
